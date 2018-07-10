@@ -1,0 +1,15 @@
+//This is a simple Hello World program in C++ to introduce myself to GitHub
+
+//Header file for input output functions
+#inlude <iostream>
+
+using namespace std;
+
+//function main
+int main ()
+{
+    cout << "Hello World" << endl;
+    
+    return 0;
+    
+}
